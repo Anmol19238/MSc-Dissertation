@@ -16,11 +16,13 @@ This project explores how different techniques can manage missing data in machin
   - Missing Not at Random (MNAR)
 
 - **Imputation Methods**:
+  - Simple Imputation
   - Multiple Imputation
   - K-Nearest Neighbors (KNN)
+  - Expectation Maximization
   - GAIN
   - MIDA
-  - [And others as detailed in the dissertation]
+  - K-means imputation
 
 - **Machine Learning Models**:
   - Random Forest for classification
